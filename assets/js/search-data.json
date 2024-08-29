@@ -1,7 +1,7 @@
 {"0": {
     "doc": "About",
     "title": "Home",
-    "content": "Hey there! . My name is Reuben Jacob. Thanks for being here. I recently started posting articles in public to reach more people to collaborate with. Started with publishing articles from an old blog as essays and then added some new ones. Then I added some of my views and influences for context. So if you’d like to get a reasonable view of me from a distance, you are in the right place. Alternatively, here is a brief intro: I am a human and an aspiring transhuman and interstellar traveler. After a few more decades here on earth to finish some projects, fix some problems that I think need fixing, while also showing up for some pre-committed roles for my family, I pack my bags. And then it’s Ad Astra!. Hopefully that’s enough time for SpaceX or one of its successors to arrange the transport. This is not entirely stated in jest. Quite a bit of my work so far has been related to technology. I have written many computer programs and architected software. I have also co-founded a tech incubator, an alternative school and been part of few other such interesting endeavours. I currently live in the San Francisco Bay Area. Would you be interested in collaborating on one of my current projects or help solve any of the problems that I care about? Would love to hear from you! . You can reach me via twitter or email . P.S. Some of the articles published here are works in progress, so please do check back for updated version. ",
+    "content": "Hey there! . My name is Marcus Jacob. I’m a premed student that likes medical research, new cancer therapies, and whales. Thanks for being here. I write essays, articles, and other things. You can reach me via twitter or email . ",
     "url": "/about/#home",
     
     "relUrl": "/about/#home"
@@ -13,130 +13,11 @@
     
     "relUrl": "/about/"
   },"2": {
-    "doc": "Essays",
-    "title": "Essays",
-    "content": "Essays, articles, position papers, blog articles by RJ. Some previously published elsewhere. On path choices, especially for rebels . On attorney-client privilege . Risk tolerance and age . On knowledge asymmetry . Accessibility standards – destination or waypoint? . Experience blindness – a simulated screen reader experience for the sighted . On Universal Design . Parable of the deviant rose . ",
+    "doc": "Articles",
+    "title": "Articles",
+    "content": "Essays, articles, position papers, blog articles by MJ. Some previously published elsewhere. On path choices, especially for rebels . On attorney-client privilege . Risk tolerance and age . On knowledge asymmetry . Accessibility standards – destination or waypoint? . Experience blindness – a simulated screen reader experience for the sighted . On Universal Design . Parable of the deviant rose . ",
     "url": "/essays/",
     
     "relUrl": "/essays/"
-  },"3": {
-    "doc": "Influences",
-    "title": "Quotes",
-    "content": "“Your children are not your children. They are the sons and daughters of Life’s longing for itself. They come through you but not from you, And though they are with you yet they belong not to you.” Kahlil Gibran . “Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference.” Robert Frost . “Where the mind is without fear and the head is held high; Where knowledge is free; Where the world has not been broken up into fragments by narrow domestic walls; Where words come out from the depth of truth; Where tireless striving stretches its arms towards perfection; Where the clear stream of reason has not lost its way into the dreary desert sand of dead habit; Where the mind is led forward by thee into ever-widening thought and action— Into that heaven of freedom, my Father, let my country awake.” Rabindranath Tagore . “I prefer dangerous freedom over peaceful slavery” “Malo periculosam, libertatem quam quietam servitutem” Letter from Jefferson to Madison, January 30, 1787 . “Do not go gentle into that good night. Rage, rage against the dying of the light.” Dylan Thomas . ",
-    "url": "/influences/#quotes",
-    
-    "relUrl": "/influences/#quotes"
-  },"4": {
-    "doc": "Influences",
-    "title": "Authors",
-    "content": "Ayn Rand, Asimov, Vivekananda, Bertrand Russel, H G Wells, Ramesh Menon, Roald Dahl, Jared Diamond, Nassim Taleb, Milan Kundera . ",
-    "url": "/influences/#authors",
-    
-    "relUrl": "/influences/#authors"
-  },"5": {
-    "doc": "Influences",
-    "title": "Literary works",
-    "content": "The Mahabharata US declaration of Independence Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values . ",
-    "url": "/influences/#literary-works",
-    
-    "relUrl": "/influences/#literary-works"
-  },"6": {
-    "doc": "Influences",
-    "title": "These contemporaries",
-    "content": "George Chandy, Paul Graham, Sal Khan, Elon Musk, Devi Shetty, Thomas Sowell Shanti Raghavan . ",
-    "url": "/influences/#these-contemporaries",
-    
-    "relUrl": "/influences/#these-contemporaries"
-  },"7": {
-    "doc": "Influences",
-    "title": "These teachers",
-    "content": ". | Dr. E Vijayan Nair | Dr. M P Chandrashekharan | R. Sridhara Pirharoty | Rita paulraj | Heather bradley | Justice Thottathil Radha | . And needless to say, by some of my colleagues, friends and family members . ",
-    "url": "/influences/#these-teachers",
-    
-    "relUrl": "/influences/#these-teachers"
-  },"8": {
-    "doc": "Influences",
-    "title": "Influences",
-    "content": " ",
-    "url": "/influences/",
-    
-    "relUrl": "/influences/"
-  },"9": {
-    "doc": "Problems",
-    "title": "Interesting Problems",
-    "content": "These are some open problems that I find interesting. For some of these, I have tried solutions, but they did not work well enough. All of them feels solvable. Broad problems . | How could knowledge asymmetry be resolved (given that information asymmetry is substantially solved) so that people know what they need to improve their circumstances | How could the problem of children who do not have a viable family be solved, and perhaps even of adults, such that they have one of the most fundamental social structures necessary for progress and even survival | What could be a system or structure to address the needs of people with disability, considering that individual agency should be maintained, and the market economy largely fails to substantially address this sector | . Narrow problems . | What could be an effective system to offset the differences in competency of lawyers of opposing parties, given that these differences have substantial bearing on the outcome | How could a car seat belt be designed so that it is more suited for the body of women, and meeting economic parameters, allowing then to use it consistently and without discomfort | . Some specific problems and conceptual solutions . Partner Networks . Lift Sensing and Tracking System . ",
-    "url": "/problems/#interesting-problems",
-    
-    "relUrl": "/problems/#interesting-problems"
-  },"10": {
-    "doc": "Problems",
-    "title": "Problems",
-    "content": " ",
-    "url": "/problems/",
-    
-    "relUrl": "/problems/"
-  },"11": {
-    "doc": "Projects",
-    "title": "Noteworthy past projects",
-    "content": "Inclusive Planet . ### . Sama . ConstructSim . Enable India / Blimey . Cooperative Learning Community in Bali . ",
-    "url": "/projects/#noteworthy-past-projects",
-    
-    "relUrl": "/projects/#noteworthy-past-projects"
-  },"12": {
-    "doc": "Projects",
-    "title": "past projects",
-    "content": " ",
-    "url": "/projects/#past-projects",
-    
-    "relUrl": "/projects/#past-projects"
-  },"13": {
-    "doc": "Projects",
-    "title": "Projects",
-    "content": "I am working on projects almost all the time - it’s been that way since I can remember. I am constantly thinking about new ideas, things that I have read and deconstructing and analysing, and the projects allow me to be grounded in reality, and also make things that are useful. I would like each subsequent project that I work do will be more impactful, and perhaps harder and riskier, partly because my risk tolerance is going up as I grow older. I know that the best is yet to come. ## Current projects ### Luga.ai (May 2023) . ",
-    "url": "/projects/",
-    
-    "relUrl": "/projects/"
-  },"14": {
-    "doc": "Views",
-    "title": "My world view - represented as opinions, observations and axioms",
-    "content": "Sometime between 12 and 15 yrs, I read a few philosophy books that exposed me to philosophy. I remember some of the authors were from the west like Bertrand Russel, and some from the east, such as Vivekananda. I had already decided that I would not be a practising Christian unlike my parents. On the one hand, many of the ideas were new and exciting. Others helped somewhat vague ideas that I had in mind to become a lot clearer and concrete. I was certain at that time that adults would know a lot more about how the world worked. I couldn’t wait to grow up and have the enhanced adult thinking faculties. Once, during a discussion with an uncle of mine, who . I recently realized that seeing the best way to systematically document world views. I am interested in hearing from you. In particular, if you disagree with me please reach out. I will be respectful and thankful if you can help me improve my views by reasoning with me. ",
-    "url": "/views/#my-world-view---represented-as-opinions-observations-and-axioms",
-    
-    "relUrl": "/views/#my-world-view---represented-as-opinions-observations-and-axioms"
-  },"15": {
-    "doc": "Views",
-    "title": "Conclusions / Opinions",
-    "content": ". | Old(er) people need the generosity of young(er) people in learning. The converse is less true. This is because books can teach a young person a large majority of what old people could, but what only young people know is only going to show up in books years from now. Culture, language and access are barriers even in the presence of the internet and social media - apart from age induced rigidity and intellectual baggage. | The smartest thing to do in terms of decision making is to follow the crowd, unless you have the resources, ability and inclination to do detailed research and analysis to support a different path. People who have an predisposition to take the path less trodden (like me), should be particularly careful here. While you don’t want to be one of the lemmings falling off the cliff, you also don’t want to be the person who runs in the opposite direction of a dinosaur stampede, only to be the first one to meet the newly reincarnated T-Rex | ~~ Human immortality is undesirable.~~ I changed my position on this | The US, while not perfect, is the best country in the world. I think it is largely because it was mindfully created by people who fiercely valued liberty | | . ",
-    "url": "/views/#conclusions--opinions",
-    
-    "relUrl": "/views/#conclusions--opinions"
-  },"16": {
-    "doc": "Views",
-    "title": "Observations about the world",
-    "content": "This is really just a log of observations, and probably inputs for a future project or essay . | Some areas of the human experience changes little as civilization progresses. Human relationships is one such. | The benefits that parents accrue by raising children is often underestimated | Any axiom, observation or conclusion, whether mine or that of others, have a non-zero probability of being wrong | Axioms, in general, are very dangerous and you want to have the bare minimum | Ignorance can masquerade as bad intentions, and vice versa | Everything is natural, and derived from stardust | Stephen Hawking once said “Showing up is half the battle”. I am onboard with the sentiment - that is, showing up is critical, though I think the proportion is questionable. | . ",
-    "url": "/views/#observations-about-the-world",
-    
-    "relUrl": "/views/#observations-about-the-world"
-  },"17": {
-    "doc": "Views",
-    "title": "Observations about me",
-    "content": ". | High return long term activities for me: building things, helping others, raising children | Key enablers for me: A great life partner, adventure, pleasant weather and simple living | I accept certain risks to minimize the chances of loss of liberty and living in tyranny | I am often clinical and analytical, but somehow find myself choking up when I hear the star spangled banner. And recently at the Cantor art museum looking at oil paintings. Wierd. | . ",
-    "url": "/views/#observations-about-me",
-    
-    "relUrl": "/views/#observations-about-me"
-  },"18": {
-    "doc": "Views",
-    "title": "Axioms",
-    "content": "I consider the following to be self evident. | liberty is a prereqiusite for happiness, and for just being | enquiry is a good thing | people are fallible | ahaṁ brahmāsmi | . You want to minimize the number of axioms that you have. More about axioms here and here . ",
-    "url": "/views/#axioms",
-    
-    "relUrl": "/views/#axioms"
-  },"19": {
-    "doc": "Views",
-    "title": "Views",
-    "content": " ",
-    "url": "/views/",
-    
-    "relUrl": "/views/"
   }
 }
