@@ -1,0 +1,5 @@
+redirects.json
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
